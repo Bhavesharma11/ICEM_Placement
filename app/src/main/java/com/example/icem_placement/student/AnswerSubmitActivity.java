@@ -53,7 +53,7 @@ public class AnswerSubmitActivity extends AppCompatActivity {
         username = user.getEmail();
         int i = username.indexOf("@");
         username = username.substring(0,i);
-        Toast.makeText(this, username,Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this, username,Toast.LENGTH_SHORT).show();
 
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
