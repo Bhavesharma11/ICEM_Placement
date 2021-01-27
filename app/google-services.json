@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126689998950",
+    "firebase_url": "https://icemplacement-d5ca6.firebaseio.com",
+    "project_id": "icemplacement-d5ca6",
+    "storage_bucket": "icemplacement-d5ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126689998950:android:2ba474f85f67d770c515a7",
+        "android_client_info": {
+          "package_name": "com.example.icem_placement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126689998950-jhb90g9o06t4hqa8849up90hhf5802g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7wet4Qp9jdxq8r0ZWlv8M4jV9PFusV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126689998950-jhb90g9o06t4hqa8849up90hhf5802g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
