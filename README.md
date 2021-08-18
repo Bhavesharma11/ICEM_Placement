@@ -1,6 +1,1 @@
-# ICEM_Placement
-Feedback analysis of interview is an application which provides an easy way to analyze the interview process in college.
-This Feedback Analysis of Interview application allows seniors and juniors an easy way to prepare for the interview. 
-In this application faculty, seniors and juniors can share question regarding the interview.
-Faculty (TPO or placement coordinators) can post notice about latest events in the placement cell.
-Students will have access to placement preparation material which will help them to excel in the interview.
+Interview Feedback Portal is an application which provides an easy way to analyze the interview process in college. This application provides seniors and juniors an easy way to prepare for the interview. In this application faculty, seniors and juniors can share questions and clarify their doubts regarding placement procedures or preparation strategy. Users can also communicate one-to-one with each other for better discussion. Faculty (TPO or placement coordinators) can post notice about latest events in the placement cell. Students will also have access to placement preparation material which will help them to excel in the interview.
